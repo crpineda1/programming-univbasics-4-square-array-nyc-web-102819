@@ -3,8 +3,8 @@ def square_array(myarray)
   array1 = []
   while myarray[count] < myarray.length do
     array1[count] = myarray[count]**2
-    puts array1
     #puts square_array(array)
     count += 1
   end
+  puts array1
 end
