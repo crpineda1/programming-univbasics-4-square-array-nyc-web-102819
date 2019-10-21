@@ -6,5 +6,5 @@ def square_array(myarray)
     #puts square_array(array)
     count += 1
   end
-  puts array1
+  p array1
 end
