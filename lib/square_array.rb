@@ -4,5 +4,5 @@ def square_array(array)
     #array[count] = array[count]**2
     puts square_array(array)
     count += 1
-end
+  end
 end
